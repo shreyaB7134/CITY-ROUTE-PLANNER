@@ -1,2 +1,3 @@
-# CITY-ROUTE-PLANNER
-     A Java-based project that models a city's road network, calculates the shortest path between intersections using Dijkstra's algorithm and detects cycles to optimize route planning.
+# INTERACTIVE STORYBOOK
+   This project is an HTML and CSS-based interactive storybook designed to engage users through dynamic storytelling. 
+        It provides an immersive experience with visually appealing design and interactive elements.  .
